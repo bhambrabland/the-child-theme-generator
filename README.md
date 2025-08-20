@@ -33,7 +33,7 @@
 
 ### Automatic Installation
 
-1. Download the latest release from the [Releases page](https://github.com/yourusername/the-child-theme-generator/releases)
+1. Download the latest release from the [Releases page](https://github.com/bhambrabland/the-child-theme-generator/releases)
 2. Go to your WordPress admin dashboard
 3. Navigate to **Plugins > Add New > Upload Plugin**
 4. Choose the zip file and click **Install Now**
@@ -44,7 +44,7 @@
 
 1. Clone this repository to your `/wp-content/plugins/` directory:
    ```bash
-   git clone https://github.com/yourusername/the-child-theme-generator.git
+   git clone https://github.com/bhambrabland/the-child-theme-generator.git
    ```
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Look for **TCT Generator** in your main admin menu
@@ -150,7 +150,7 @@ apply_filters('tctg_functions_php_template', $template);
 
 ## 🐛 Bug Reports & Feature Requests
 
-Found a bug or have a feature request? Please open an issue on our [GitHub Issues page](https://github.com/yourusername/the-child-theme-generator/issues).
+Found a bug or have a feature request? Please open an issue on our [GitHub Issues page](https://github.com/bhambrabland/the-child-theme-generator/issues).
 
 When reporting bugs, please include:
 - WordPress version
@@ -189,7 +189,6 @@ At MEM Digital, we blend timeless design with emerging technology to support for
 ## 📈 Changelog
 
 ### [1.1.0] - 2025-01-20
-- Fixed critical error in generated functions.php file
 - Improved function name sanitization for PHP compatibility
 - Updated branding comments with website URL
 - Enhanced user-friendly messaging in generated CSS files
