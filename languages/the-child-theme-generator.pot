@@ -1,0 +1,231 @@
+# Copyright (C) 2025 MEM Digital
+# This file is distributed under the GPL v2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: The Child Theme Generator 1.1.0\n"
+"Report-Msgid-Bugs-To: hello@memdigital.co.uk\n"
+"Last-Translator: MEM Digital <hello@memdigital.co.uk>\n"
+"Language-Team: MEM Digital <hello@memdigital.co.uk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-01-01T00:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WordPress\n"
+"X-Domain: the-child-theme-generator\n"
+
+#: the-child-theme-generator.php:71
+msgid "The Child Theme Generator"
+msgstr ""
+
+#: the-child-theme-generator.php:72
+msgid "TCT Generator"
+msgstr ""
+
+#: the-child-theme-generator.php:103
+msgid "A theme with the same name already exists!"
+msgstr ""
+
+#: the-child-theme-generator.php:108
+msgid "Child theme created and activated successfully!"
+msgstr ""
+
+#: the-child-theme-generator.php:122
+msgid "Security check failed."
+msgstr ""
+
+#: the-child-theme-generator.php:127
+msgid "You do not have sufficient permissions."
+msgstr ""
+
+#: the-child-theme-generator.php:145
+msgid "Parent theme not found."
+msgstr ""
+
+#: the-child-theme-generator.php:160
+msgid "Failed to create child theme directory."
+msgstr ""
+
+#: the-child-theme-generator.php:306
+msgid "Invalid file type. Only JPG, PNG, and GIF files are allowed."
+msgstr ""
+
+#: the-child-theme-generator.php:311
+msgid "File size too large. Maximum size is 2MB."
+msgstr ""
+
+#: the-child-theme-generator.php:317
+msgid "Failed to upload thumbnail image."
+msgstr ""
+
+#: the-child-theme-generator.php:374
+msgid "Failed to create file: %s"
+msgstr ""
+
+#: the-child-theme-generator.php:385
+msgid "MEM Digital Logo"
+msgstr ""
+
+#: the-child-theme-generator.php:387
+msgid "Create a child theme for your current active theme in seconds."
+msgstr ""
+
+#: the-child-theme-generator.php:391
+msgid "Current Active Theme:"
+msgstr ""
+
+#: the-child-theme-generator.php:399
+msgid "Child Theme Name"
+msgstr ""
+
+#: the-child-theme-generator.php:400
+msgid "Keep it short and sweet"
+msgstr ""
+
+#: the-child-theme-generator.php:408
+msgid "Author"
+msgstr ""
+
+#: the-child-theme-generator.php:409
+msgid "Your name or business name"
+msgstr ""
+
+#: the-child-theme-generator.php:417
+msgid "Author URL"
+msgstr ""
+
+#: the-child-theme-generator.php:418
+msgid "Your website URL"
+msgstr ""
+
+#: the-child-theme-generator.php:426
+msgid "Description"
+msgstr ""
+
+#: the-child-theme-generator.php:427
+msgid "Brief description of your child theme"
+msgstr ""
+
+#: the-child-theme-generator.php:434
+msgid "Theme URL"
+msgstr ""
+
+#: the-child-theme-generator.php:435
+msgid "Website where this theme will be used (optional)"
+msgstr ""
+
+#: the-child-theme-generator.php:443
+msgid "Text Domain"
+msgstr ""
+
+#: the-child-theme-generator.php:444
+msgid "Used for translations (auto-generated)"
+msgstr ""
+
+#: the-child-theme-generator.php:452
+msgid "Tags"
+msgstr ""
+
+#: the-child-theme-generator.php:453
+msgid "Comma-separated tags (optional)"
+msgstr ""
+
+#: the-child-theme-generator.php:454
+msgid "responsive, custom, business"
+msgstr ""
+
+#: the-child-theme-generator.php:461
+msgid "Screenshot"
+msgstr ""
+
+#: the-child-theme-generator.php:462
+msgid "1200 × 900 pixels recommended (optional)"
+msgstr ""
+
+#: the-child-theme-generator.php:465
+msgid "Choose File"
+msgstr ""
+
+#: the-child-theme-generator.php:468
+msgid "No file chosen"
+msgstr ""
+
+#: the-child-theme-generator.php:472
+msgid "Advanced Options"
+msgstr ""
+
+#: the-child-theme-generator.php:476
+msgid "Select common parent theme files to copy to your child theme. Only select files you plan to customize."
+msgstr ""
+
+#: the-child-theme-generator.php:479
+msgid "Copy these common files if they exist:"
+msgstr ""
+
+#: the-child-theme-generator.php:484
+msgid "Site header template"
+msgstr ""
+
+#: the-child-theme-generator.php:490
+msgid "Site footer template"
+msgstr ""
+
+#: the-child-theme-generator.php:496
+msgid "Main template fallback"
+msgstr ""
+
+#: the-child-theme-generator.php:502
+msgid "Single post template"
+msgstr ""
+
+#: the-child-theme-generator.php:508
+msgid "Page template"
+msgstr ""
+
+#: the-child-theme-generator.php:514
+msgid "Archive template"
+msgstr ""
+
+#: the-child-theme-generator.php:520
+msgid "Search results template"
+msgstr ""
+
+#: the-child-theme-generator.php:526
+msgid "Error page template"
+msgstr ""
+
+#: the-child-theme-generator.php:532
+msgid "Sidebar template"
+msgstr ""
+
+#: the-child-theme-generator.php:540
+msgid "Select All"
+msgstr ""
+
+#: the-child-theme-generator.php:543
+msgid "Select None"
+msgstr ""
+
+#: the-child-theme-generator.php:547
+msgid "Note:"
+msgstr ""
+
+#: the-child-theme-generator.php:548
+msgid "Only files that exist in your parent theme will be copied. Files are copied exactly as they are - you can then customize them in your child theme."
+msgstr ""
+
+#: the-child-theme-generator.php:555
+msgid "Create Child Theme"
+msgstr ""
+
+#: the-child-theme-generator.php:560
+msgid "Need website support?"
+msgstr ""
+
+#: the-child-theme-generator.php:573
+msgid "The Child Theme Generator requires PHP 7.4 or higher."
+msgstr ""
+
+#: the-child-theme-generator.php:577
+msgid "The Child Theme Generator requires WordPress 5.0 or higher."
+msgstr ""
