@@ -1,0 +1,108 @@
+# WordPress Plugin .gitignore
+
+# WordPress Core Files
+wp-config.php
+wp-content/uploads/
+wp-content/blogs.dir/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-content/cache/
+wp-content/cache/supercache/
+
+# WordPress Specific
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+*.log
+
+# Plugin Development
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+
+# Composer
+vendor/
+composer.lock
+
+# Build Tools
+dist/
+build/
+*.min.js
+*.min.css
+
+# Environment Files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Version Control
+.svn/
+.git/
+.gitattributes
+
+# Package Files
+*.zip
+*.tar.gz
+*.rar
+
+# Documentation Build
+docs/_build/
+
+# Testing
+coverage/
+.nyc_output/
+phpunit.xml
+.phpunit.result.cache
+
+# Local Development
+local-config.php
+wp-content/debug.log
+
+# Plugin Specific
+screenshots/
+assets/screenshots/
+
+# Exclude development files but keep distribution files
+src/
+gulpfile.js
+webpack.config.js
+package.json
+package-lock.json
+yarn.lock
+
+# Keep these files
+!css/
+!js/
+!languages/
+!readme.txt
+!*.php
